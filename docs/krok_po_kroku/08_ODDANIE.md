@@ -53,4 +53,4 @@
 
 Aktualny harmonogram 2026/2027 podaje **25 stycznia 2027 r.** jako termin mailowego oddania projektu. Szczegóły terminu obrony oraz starej punktacji należy potwierdzić z prowadzącą.
 
-[Powiązane zadania](../../issues/8).
+[Powiązane zadania](https://github.com/Sepukow/creditScoring/issues/8).
