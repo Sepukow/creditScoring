@@ -45,4 +45,4 @@ Dla przykładowego klienta bank rozważa wysłanie oferty CSS, ale klient jej ni
 
 Dla każdego modelu krótka tabela: `Kto?` (populacja), `Kiedy?` (moment scoringu), `Co?` (target), `Skąd?` (kod tworzący etykietę), `Które rekordy wykluczamy?`, `Jak walidujemy?`. W załączniku do danych podajemy liczebności.
 
-**Przechodzimy dalej, gdy te cztery tabele są sprawdzone.** [Szczegółowe zadania](../../issues/3).
+**Przechodzimy dalej, gdy te cztery tabele są sprawdzone.** [Szczegółowe zadania](https://github.com/Sepukow/creditScoring/issues/3).
