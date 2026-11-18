@@ -65,4 +65,4 @@ Drugi przypadek: model dobrze odróżnia ryzykownych klientów, ale jego szacowa
 
 ## Co powinno działać na koniec?
 
-Każdy z nas ma kod treningu, wybrany model, raport metryk, kartę skoringową, wstępną implementację SAS i opis ograniczeń. **Cztery modele to cztery osobne wyniki, ale jeden standard opisu.** [Powiązane zadania](../../issues/4).
+Każdy z nas ma kod treningu, wybrany model, raport metryk, kartę skoringową, wstępną implementację SAS i opis ograniczeń. **Cztery modele to cztery osobne wyniki, ale jeden standard opisu.** [Powiązane zadania](https://github.com/Sepukow/creditScoring/issues/4).
