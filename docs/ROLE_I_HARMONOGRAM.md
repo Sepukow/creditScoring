@@ -14,6 +14,12 @@ W tej chwili używamy liter A–E, nie zgadujemy loginów uczestników. Właści
 
 **Zasada wspólnej odpowiedzialności:** każda osoba zna również cele pozostałych modeli i potrafi objaśnić ciąg ABT → PD/PR → reguły → decyzja → P&L.
 
+## Pierwsze spotkanie — 18 listopada 2026 r.
+
+Na dzisiejszym spotkaniu rozdzielamy role A–E, sprawdzamy dostęp do materiałów i Workbench, wyznaczamy osoby uruchamiające benchmark oraz ustalamy termin następnej sesji. Godzinę spotkania potwierdzamy między sobą. [Praktyczna agenda i przygotowanie](krok_po_kroku/01_START.md).
+
+**Do 22 listopada** zamykamy pozostałe czynności przygotowawcze; nie przekładamy na ten dzień pierwszego spotkania.
+
 ## Jak pracujemy
 
 - Początek tygodnia: krótki przegląd zakończonych zadań, blokad i priorytetów.
@@ -38,7 +44,8 @@ Po uzgodnieniu składu podmienimy role na użytkowników GitHub i przypiszemy im
 
 | Do | Rezultat |
 |---|---|
-| **22.11.2026** | wspólne repo i podział pracy |
+| **18.11.2026** | pierwsze spotkanie, wstępny podział pracy i uruchomienie projektu |
+| **22.11.2026** | domknięcie dostępów, dokumentacji i organizacji |
 | **29.11.2026** | uruchomiona strategia referencyjna |
 | **06.12.2026** | zatwierdzone definicje 4 populacji i targetów |
 | **20.12.2026** | 4 działające modele v1 |
