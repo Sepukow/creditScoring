@@ -1,0 +1,19 @@
+# Nie przechowujemy danych źródłowych i wyników symulacji w historii Git
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.sas7bdat
+*.sas7bidx
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.key
+*.pem
+*.log
+runs/*/raw_data/
+PROCESS_SIMULATION/process/data/
+PROCESS_SIMULATION/process/abt/
