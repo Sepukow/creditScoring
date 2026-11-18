@@ -1,5 +1,7 @@
 # Zasady pracy w repozytorium
 
+Pierwsze spotkanie odbywa się **18 listopada 2026 r.**; na nim ustalamy pięć odpowiedzialności i osobę uruchamiającą benchmark. [Plan spotkania](krok_po_kroku/01_START.md). Pozostałe formalności organizacyjne zamykamy do 22 listopada.
+
 ## Nasz sposób pracy
 
 README i dokumentację utrzymujemy w repozytorium. Zadania i pytania zapisujemy w Issues. Zmiany w plikach nanosimy na osobnych gałęziach i łączymy przez Pull Request po review.
