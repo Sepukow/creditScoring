@@ -46,4 +46,4 @@ Uruchomiliśmy proces i dostaliśmy inny zysk. Nie modyfikujemy danych do moment
 
 `run_id`, trzy SHA repozytoriów, opis wybranej strategii, datę i środowisko, log SAS, HTML zysków, liczniki wniosków i akceptacji. Bez tego porównania z dalszymi eksperymentami są bezużyteczne.
 
-**Przechodzimy dalej, kiedy mamy powtarzalny punkt odniesienia albo konkretnie zdiagnozowaną blokadę.** [Zadania techniczne do tego etapu](../../issues/2).
+**Przechodzimy dalej, kiedy mamy powtarzalny punkt odniesienia albo konkretnie zdiagnozowaną blokadę.** [Zadania techniczne do tego etapu](https://github.com/Sepukow/creditScoring/issues/2).
