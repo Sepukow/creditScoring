@@ -14,9 +14,10 @@ Budujemy kompletny proces akceptacji kredytowej dla dwóch produktów: kredytu r
 
 1. Czytamy [plan projektu](docs/PLAN_PROJEKTU.md) i [zasady pracy zespołu](docs/ZASADY_PRACY.md).
 2. Sprawdzamy [podział odpowiedzialności](docs/ROLE_I_HARMONOGRAM.md).
-3. Wybieramy zadanie w [Issues](../../issues), a następnie zgłaszamy w nim postępy i blokady.
-4. Każdą zmianę kodu oddajemy przez Pull Request z opisem testów i wyników.
-5. Wersje modeli, parametry strategii oraz pełne raporty symulacji dokumentujemy zgodnie z [protokołem eksperymentów](docs/EKSPERYMENTY_I_WALIDACJA.md).
+3. Wybieramy zadanie w [Issues](../../issues) i sprawdzamy jego checklistę. Nadrzędne Issues F0–F7 pokazują postęp etapów.
+4. Utrzymujemy statusy w [GitHub Projects — instrukcja konfiguracji](docs/GITHUB_PROJECTS.md). Po utworzeniu tablicy podlinkujemy ją tutaj.
+5. Każdą zmianę kodu oddajemy przez Pull Request z opisem testów i wyników.
+6. Wersje modeli, parametry strategii oraz pełne raporty symulacji dokumentujemy zgodnie z [protokołem eksperymentów](docs/EKSPERYMENTY_I_WALIDACJA.md).
 
 ## Jak składa się cały system
 
@@ -68,6 +69,7 @@ Role A–E są oznaczeniami roboczymi. Przypiszemy je do konkretnych osób podcz
 - [Plan projektu i kryteria odbioru](docs/PLAN_PROJEKTU.md)
 - [Role oraz harmonogram](docs/ROLE_I_HARMONOGRAM.md)
 - [Zasady pracy zespołowej](docs/ZASADY_PRACY.md)
+- [Konfiguracja GitHub Projects i tablicy zadań](docs/GITHUB_PROJECTS.md)
 - [Dane, modele i kontrakty](docs/KONTRAKTY_DANYCH_I_MODELI.md)
 - [Eksperymenty, testy i optymalizacja](docs/EKSPERYMENTY_I_WALIDACJA.md)
 - [Finalne oddanie i obrona](docs/ODDANIE_I_OBRONA.md)
