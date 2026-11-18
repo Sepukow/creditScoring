@@ -1,6 +1,6 @@
 # 1. Start projektu — pierwsze spotkanie i podział pracy
 
-**Pierwsze spotkanie: środa, 18 listopada 2026 r. (dziś). Godzinę ustalamy między sobą.**  
+**Pierwsze spotkanie: środa, 18 listopada 2026 r. Godzinę ustalamy między sobą.**  
 **Efekt spotkania:** każdy wie, nad czym pracuje, co musi uruchomić i co ma pokazać na kolejnym spotkaniu.
 
 [← Wróć do README](../../README.md) · [Następny etap: uruchomienie symulatora →](02_SYMULATOR.md)
@@ -43,4 +43,4 @@ Ktoś bierze model PD Ins, ale jeszcze nie wie, jak policzyć ryzyko. Nie musi n
 
 Mamy ustalonych pięciu właścicieli, miejsce na kod, działający kontakt w zespole i jasno wskazaną osobę uruchamiającą benchmark. Do **22 listopada** zamykamy pozostałe sprawy organizacyjne.
 
-[Zadania organizacyjne w GitHub](../../issues/1) są tylko listą kontrolną; najważniejsze są powyższe rezultaty.
+[Zadania organizacyjne w GitHub](https://github.com/Sepukow/creditScoring/issues/1) są tylko listą kontrolną; najważniejsze są powyższe rezultaty.
