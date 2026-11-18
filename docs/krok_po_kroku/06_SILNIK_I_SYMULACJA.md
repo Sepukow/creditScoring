@@ -41,4 +41,4 @@ Jeśli testy przechodzą, spadek może być rzeczywistym skutkiem słabszych mod
 
 ## Wynik końcowy
 
-Działający `decision_engine.sas`, cztery scoringi, komplet raportów i logów z jednej wersji, poprawne liczniki oraz wynik, który da się odtworzyć. [Powiązane zadania](../../issues/6).
+Działający `decision_engine.sas`, cztery scoringi, komplet raportów i logów z jednej wersji, poprawne liczniki oraz wynik, który da się odtworzyć. [Powiązane zadania](https://github.com/Sepukow/creditScoring/issues/6).
