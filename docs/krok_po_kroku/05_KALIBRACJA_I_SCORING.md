@@ -51,4 +51,4 @@ To przykład testowania kolejności, nie gotowa definicja score dla naszej zmien
 
 ## Co mamy na końcu?
 
-Cztery osobne kody SAS, cztery zestawy współczynników kalibracji, testy granic i missing oraz krótki raport zgodności z modelami źródłowymi. **Dopóki wynik wdrożenia nie zgadza się z modelem, nie podłączamy go do silnika.** [Zadania pomocnicze](../../issues/5).
+Cztery osobne kody SAS, cztery zestawy współczynników kalibracji, testy granic i missing oraz krótki raport zgodności z modelami źródłowymi. **Dopóki wynik wdrożenia nie zgadza się z modelem, nie podłączamy go do silnika.** [Zadania pomocnicze](https://github.com/Sepukow/creditScoring/issues/5).
