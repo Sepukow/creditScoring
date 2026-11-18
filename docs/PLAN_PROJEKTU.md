@@ -31,7 +31,7 @@ Przyszłe wnioski nie są niezależne od bieżących decyzji. Dlatego wynik poje
 
 | Faza | Termin wewnętrzny | Odpowiadamy za | Warunek zakończenia |
 |---|---|---|---|
-| **F0 Organizacja** | 22 XI | zakres, role, repo, plan pracy | G0: pięć uzgodnionych odpowiedzialności i backlog |
+| **F0 Organizacja** | 18 XI | zakres, role, repo, plan pracy | G0: pięć uzgodnionych odpowiedzialności i backlog |
 | **F1 Benchmark** | 29 XI | Workbench, wersje repozytoriów, odtworzenie strategii wzorcowej | G1: log, HTML i uzgodniony wynik/liczniki |
 | **F2 Kontrakty danych** | 6 XII | ABT, targety, dojrzałość zdarzeń, brak leakage, próbki | G2: cztery zaakceptowane kontrakty |
 | **F3 Modele v1** | 20 XII | cztery modele, binning, selekcja, metryki | G3: cztery model cards + kandydaci scoringu |
