@@ -46,4 +46,4 @@ Otwieramy zestawienie przebiegów i odrzucamy te, których nie możemy odtworzy�
 
 Jeżeli żaden wariant nie pobije 663 327 PLN, oddajemy najlepsze poprawnie działające rozwiązanie i uczciwą analizę przyczyn. Nie poprawiamy ręcznie wyników, żeby osiągnąć wymaganą liczbę.
 
-**Kończymy etap, mając jedną wybraną i uzasadnioną wersję strategii, kompletny rejestr eksperymentów i raport.** [Zadania pomocnicze](../../issues/7).
+**Kończymy etap, mając jedną wybraną i uzasadnioną wersję strategii, kompletny rejestr eksperymentów i raport.** [Zadania pomocnicze](https://github.com/Sepukow/creditScoring/issues/7).
